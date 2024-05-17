@@ -1,0 +1,27 @@
+.link {
+	text-decoration: none;
+	/* margin-bottom: 16px; */
+}
+
+.btn {
+	display: inline-flex;
+	padding: 8px 12px;
+	border-radius: 4px;
+	border: none;
+	font: inherit;
+	cursor: pointer;
+	background-color: #e2e5e8;
+	color: #000000;
+	justify-content: space-around;
+	align-items: center;
+	width: 96px;
+	height: 35px;
+	margin: 0 auto;
+	transition: background-color 200ms linear;
+}
+
+.btn:hover,
+.btn:focus {
+	background-color: #1976d2;
+	color: #fff;
+}

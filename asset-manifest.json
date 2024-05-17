@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/antonov-test-task/static/css/main.44b8020c.css",
+    "main.js": "/antonov-test-task/static/js/main.f27a007d.js",
+    "static/css/152.9242aadc.chunk.css": "/antonov-test-task/static/css/152.9242aadc.chunk.css",
+    "static/js/152.133bbd96.chunk.js": "/antonov-test-task/static/js/152.133bbd96.chunk.js",
+    "static/css/37.2ee8a4da.chunk.css": "/antonov-test-task/static/css/37.2ee8a4da.chunk.css",
+    "static/js/37.90ecd189.chunk.js": "/antonov-test-task/static/js/37.90ecd189.chunk.js",
+    "static/js/453.2bfb15ab.chunk.js": "/antonov-test-task/static/js/453.2bfb15ab.chunk.js",
+    "static/js/82.91cb8809.chunk.js": "/antonov-test-task/static/js/82.91cb8809.chunk.js",
+    "static/js/652.1e9ba79d.chunk.js": "/antonov-test-task/static/js/652.1e9ba79d.chunk.js",
+    "index.html": "/antonov-test-task/index.html",
+    "main.44b8020c.css.map": "/antonov-test-task/static/css/main.44b8020c.css.map",
+    "main.f27a007d.js.map": "/antonov-test-task/static/js/main.f27a007d.js.map",
+    "152.9242aadc.chunk.css.map": "/antonov-test-task/static/css/152.9242aadc.chunk.css.map",
+    "152.133bbd96.chunk.js.map": "/antonov-test-task/static/js/152.133bbd96.chunk.js.map",
+    "37.2ee8a4da.chunk.css.map": "/antonov-test-task/static/css/37.2ee8a4da.chunk.css.map",
+    "37.90ecd189.chunk.js.map": "/antonov-test-task/static/js/37.90ecd189.chunk.js.map",
+    "453.2bfb15ab.chunk.js.map": "/antonov-test-task/static/js/453.2bfb15ab.chunk.js.map",
+    "82.91cb8809.chunk.js.map": "/antonov-test-task/static/js/82.91cb8809.chunk.js.map",
+    "652.1e9ba79d.chunk.js.map": "/antonov-test-task/static/js/652.1e9ba79d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44b8020c.css",
+    "static/js/main.f27a007d.js"
+  ]
+}

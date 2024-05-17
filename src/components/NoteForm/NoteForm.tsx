@@ -4,7 +4,6 @@ import { useNavigate } from 'react-router-dom'
 import { addNote, updateNote } from '../../redux/notesSlice'
 import { getNotes } from '../../redux/selectors'
 import Box from '@mui/material/Box'
-
 import TextField from '@mui/material/TextField'
 import css from './NoteForm.module.css'
 
@@ -64,6 +63,7 @@ const NoteForm: React.FC<NoteFormProps> = ({ noteId }) => {
 				noValidate
 				autoComplete='off'
 				className={css.form}
+				onSubmit={handleSubmit}
 			>
 				<TextField
 					id='outlined-basic'
